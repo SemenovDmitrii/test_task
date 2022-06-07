@@ -18,4 +18,4 @@ https://www.figma.com/file/qLWjxRD3yoT2N42DgBIWJ8/Front-end-Junior-Test-Task?nod
 ● Задание нужно выполнить в какой-либо онлайн-платформе для хранения
 кода (например, CodePen или CodeSandbox)
 
-GH PAGES - https://semenovdmitrii.github.io/qsoft-test/
+GH PAGES - https://semenovdmitrii.github.io/test_task/
